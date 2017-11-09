@@ -45,22 +45,26 @@ msgid "Remove 8-sprites-per-scanline hardware limit"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Mask Overscan (Horizontal)"
+msgid "CPU Speed (Overclock)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Mask Overscan (Vertical)"
+msgid "Mask Overscan (Horizontal)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Palette"
+msgid "Mask Overscan (Vertical)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "RAM Power-on State"
+msgid "Palette"
 msgstr ""
 
 msgctxt "#30011"
+msgid "RAM Power-on State"
+msgstr ""
+
+msgctxt "#30012"
 msgid "Turbo Pulse Speed"
 msgstr ""
 
