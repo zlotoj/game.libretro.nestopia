@@ -10,4 +10,21 @@
 		<feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
 		<feature name="left" mapto="RETRO_DEVICE_ID_JOYPAD_LEFT"/>
 	</controller>
+	<!-- TODO -->
+	<controller id="game.controller.default" type="RETRO_DEVICE_JOYPAD">
+		<!-- Turbo A -->
+		<feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
+		<!-- Turbo B -->
+		<feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
+		<!-- Mic (Famicon) -->
+		<feature name="leftthumb" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
+		<!-- Coin 1 (VSSystem) -->
+		<feature name="lefttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
+		<!-- Coin 2 (VSSystem) -->
+		<feature name="righttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
+		<!-- Flip disk (FDS) -->
+		<feature name="leftbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L"/ >
+		<!-- Eject disk (FDS) -->
+		<feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_R"/ >
+	</controller>
 </buttonmap>
