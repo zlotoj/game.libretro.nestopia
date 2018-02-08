@@ -65,6 +65,10 @@ msgid "RAM Power-on State"
 msgstr ""
 
 msgctxt "#30012"
+msgid "4 Player Adapter"
+msgstr ""
+
+msgctxt "#30013"
 msgid "Turbo Pulse Speed"
 msgstr ""
 
