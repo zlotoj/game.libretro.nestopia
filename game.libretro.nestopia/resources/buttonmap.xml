@@ -23,8 +23,8 @@
 		<!-- Coin 2 (VSSystem) -->
 		<feature name="righttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
 		<!-- Flip disk (FDS) -->
-		<feature name="leftbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L"/ >
+		<feature name="leftbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
 		<!-- Eject disk (FDS) -->
-		<feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_R"/ >
+		<feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
 	</controller>
 </buttonmap>
