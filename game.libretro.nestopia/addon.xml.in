@@ -14,8 +14,6 @@
 		<extensions>nes|fds|unf|unif</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
-		<supports_keyboard>false</supports_keyboard>
-		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Nintendo - NES / Famicom (Nestopia UE) 1.49-WIP</summary>
