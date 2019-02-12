@@ -29,45 +29,49 @@ msgid "Blargg NTSC filter"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Favored System"
+msgid "Shift A/B/X/Y Clockwise"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Automatically insert first FDS disk on reset"
+msgid "Favored System"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Game Genie Sound Distortion"
+msgid "Automatically insert first FDS disk on reset"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Remove 8-sprites-per-scanline hardware limit"
+msgid "Game Genie Sound Distortion"
 msgstr ""
 
 msgctxt "#30007"
-msgid "CPU Speed (Overclock)"
+msgid "Remove 8-sprites-per-scanline hardware limit"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Mask Overscan (Horizontal)"
+msgid "CPU Speed (Overclock)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Mask Overscan (Vertical)"
+msgid "Mask Overscan (Horizontal)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Palette"
+msgid "Mask Overscan (Vertical)"
 msgstr ""
 
 msgctxt "#30011"
-msgid "RAM Power-on State"
+msgid "Palette"
 msgstr ""
 
 msgctxt "#30012"
-msgid "4 Player Adapter"
+msgid "RAM Power-on State"
 msgstr ""
 
 msgctxt "#30013"
+msgid "4 Player Adapter"
+msgstr ""
+
+msgctxt "#30014"
 msgid "Turbo Pulse Speed"
 msgstr ""
