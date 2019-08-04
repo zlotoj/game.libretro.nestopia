@@ -5,7 +5,7 @@
 		<setting label="30002" type="select" id="nestopia_blargg_ntsc_filter" values="disabled|composite|svideo|rgb|monochrome" default="disabled"/>
 		<setting label="30003" type="select" id="nestopia_button_shift" values="disabled|enabled" default="disabled"/>
 		<setting label="30004" type="select" id="nestopia_favored_system" values="auto|ntsc|pal|famicom|dendy" default="auto"/>
-		<setting label="30005" type="select" id="nestopia_fds_auto_insert" values="enabled|disabled" default="enabled"/>
+		<setting label="30005" type="select" id="nestopia_fds_auto_insert" values="enabled|disabled; enabled|disabled" default="enabled"/>
 		<setting label="30006" type="select" id="nestopia_genie_distortion" values="disabled|enabled" default="disabled"/>
 		<setting label="30007" type="select" id="nestopia_nospritelimit" values="disabled|enabled" default="disabled"/>
 		<setting label="30008" type="select" id="nestopia_overclock" values="1x|2x" default="1x"/>
