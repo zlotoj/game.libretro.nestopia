@@ -21,23 +21,23 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Preferred aspect ratio"
+msgid "Preferred Aspect Ratio"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Blargg NTSC filter"
+msgid "Blargg NTSC Filter"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Shift A/B/X/Y Clockwise"
+msgid "Shift Buttons Clockwise"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Favored System"
+msgid "System Region"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Automatically insert first FDS disk on reset"
+msgid "FDS Auto Instert"
 msgstr ""
 
 msgctxt "#30006"
@@ -45,7 +45,7 @@ msgid "Game Genie Sound Distortion"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Remove 8-sprites-per-scanline hardware limit"
+msgid "Remove Sprite Limit"
 msgstr ""
 
 msgctxt "#30008"
