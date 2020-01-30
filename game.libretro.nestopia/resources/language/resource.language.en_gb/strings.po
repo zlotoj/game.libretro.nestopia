@@ -37,7 +37,7 @@ msgid "System Region"
 msgstr ""
 
 msgctxt "#30005"
-msgid "FDS Auto Instert"
+msgid "FDS Auto Insert"
 msgstr ""
 
 msgctxt "#30006"
