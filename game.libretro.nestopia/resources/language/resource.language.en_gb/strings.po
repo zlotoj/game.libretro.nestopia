@@ -25,53 +25,97 @@ msgid "Preferred Aspect Ratio"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Blargg NTSC Filter"
+msgid "DPCM Channel Volume %"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Shift Buttons Clockwise"
+msgid "FDS Channel Volume %"
 msgstr ""
 
 msgctxt "#30004"
-msgid "System Region"
+msgid "MMC5 Channel Volume %"
 msgstr ""
 
 msgctxt "#30005"
-msgid "FDS Auto Insert"
+msgid "N163 Channel Volume %"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Game Genie Sound Distortion"
+msgid "Noise Channel Volume %"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Remove Sprite Limit"
+msgid "S5B Channel Volume %"
 msgstr ""
 
 msgctxt "#30008"
-msgid "CPU Speed (Overclock)"
+msgid "Square 1 Channel Volume %"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Mask Overscan (Horizontal)"
+msgid "Square 2 Channel Volume %"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Mask Overscan (Vertical)"
+msgid "Triangle Channel Volume %"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Palette"
+msgid "VRC6 Channel Volume %"
 msgstr ""
 
 msgctxt "#30012"
-msgid "RAM Power-on State"
+msgid "VRC7 Channel Volume %"
 msgstr ""
 
 msgctxt "#30013"
-msgid "4 Player Adapter"
+msgid "Blargg NTSC Filter"
 msgstr ""
 
 msgctxt "#30014"
+msgid "Shift Buttons Clockwise"
+msgstr ""
+
+msgctxt "#30015"
+msgid "System Region"
+msgstr ""
+
+msgctxt "#30016"
+msgid "FDS Auto Insert"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Game Genie Sound Distortion"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Remove Sprite Limit"
+msgstr ""
+
+msgctxt "#30019"
+msgid "CPU Speed (Overclock)"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Mask Overscan (Horizontal)"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Mask Overscan (Vertical)"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Palette"
+msgstr ""
+
+msgctxt "#30023"
+msgid "RAM Power-on State"
+msgstr ""
+
+msgctxt "#30024"
+msgid "4 Player Adapter"
+msgstr ""
+
+msgctxt "#30025"
 msgid "Turbo Pulse Speed"
 msgstr ""
