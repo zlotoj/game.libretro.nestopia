@@ -26,5 +26,6 @@
 		<setting label="30023" type="select" id="nestopia_ram_power_state" values="0x00|0xFF|random" default="0x00"/>
 		<setting label="30024" type="select" id="nestopia_select_adapter" values="auto|ntsc|famicom" default="auto"/>
 		<setting label="30025" type="select" id="nestopia_turbo_pulse" values="2|3|4|5|6|7|8|9" default="2"/>
+		<setting label="30026" type="select" id="nestopia_zapper_device" values="lightgun|mouse|pointer" default="lightgun"/>
 	</category>
 </settings>
