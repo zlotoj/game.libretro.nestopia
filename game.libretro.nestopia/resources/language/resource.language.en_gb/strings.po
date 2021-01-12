@@ -117,9 +117,13 @@ msgid "4 Player Adapter"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Turbo Pulse Speed"
+msgid "Show Advanced Audio Settings (Reopen menu)"
 msgstr ""
 
 msgctxt "#30026"
+msgid "Turbo Pulse Speed"
+msgstr ""
+
+msgctxt "#30027"
 msgid "Zapper device"
 msgstr ""

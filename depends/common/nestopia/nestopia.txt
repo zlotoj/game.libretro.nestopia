@@ -1,1 +1,1 @@
-nestopia https://github.com/libretro/nestopia/archive/5f6d854b8b9a23b22da60fff5e44afb7b2bd76a0.zip
+nestopia https://github.com/libretro/nestopia/archive/f0e1e701c125847e61008af84ac05f040a85eeb8.zip
