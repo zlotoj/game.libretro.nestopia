@@ -21,109 +21,117 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Preferred Aspect Ratio"
+msgid "Arkanoid device"
 msgstr ""
 
 msgctxt "#30002"
-msgid "DPCM Channel Volume %"
+msgid "Preferred Aspect Ratio"
 msgstr ""
 
 msgctxt "#30003"
-msgid "FDS Channel Volume %"
+msgid "DPCM Channel Volume %"
 msgstr ""
 
 msgctxt "#30004"
-msgid "MMC5 Channel Volume %"
+msgid "FDS Channel Volume %"
 msgstr ""
 
 msgctxt "#30005"
-msgid "N163 Channel Volume %"
+msgid "MMC5 Channel Volume %"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Noise Channel Volume %"
+msgid "N163 Channel Volume %"
 msgstr ""
 
 msgctxt "#30007"
-msgid "S5B Channel Volume %"
+msgid "Noise Channel Volume %"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Square 1 Channel Volume %"
+msgid "S5B Channel Volume %"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Square 2 Channel Volume %"
+msgid "Square 1 Channel Volume %"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Triangle Channel Volume %"
+msgid "Square 2 Channel Volume %"
 msgstr ""
 
 msgctxt "#30011"
-msgid "VRC6 Channel Volume %"
+msgid "Triangle Channel Volume %"
 msgstr ""
 
 msgctxt "#30012"
-msgid "VRC7 Channel Volume %"
+msgid "VRC6 Channel Volume %"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Blargg NTSC Filter"
+msgid "VRC7 Channel Volume %"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Shift Buttons Clockwise"
+msgid "Blargg NTSC Filter"
 msgstr ""
 
 msgctxt "#30015"
-msgid "System Region"
+msgid "Shift Buttons Clockwise"
 msgstr ""
 
 msgctxt "#30016"
-msgid "FDS Auto Insert"
+msgid "System Region"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Game Genie Sound Distortion"
+msgid "FDS Auto Insert"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Remove Sprite Limit"
+msgid "Game Genie Sound Distortion"
 msgstr ""
 
 msgctxt "#30019"
-msgid "CPU Speed (Overclock)"
+msgid "Remove Sprite Limit"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Mask Overscan (Horizontal)"
+msgid "CPU Speed (Overclock)"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Mask Overscan (Vertical)"
+msgid "Mask Overscan (Horizontal)"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Palette"
+msgid "Mask Overscan (Vertical)"
 msgstr ""
 
 msgctxt "#30023"
-msgid "RAM Power-on State"
+msgid "Palette"
 msgstr ""
 
 msgctxt "#30024"
-msgid "4 Player Adapter"
+msgid "RAM Power-on State"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Show Advanced Audio Settings (Reopen menu)"
+msgid "4 Player Adapter"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Turbo Pulse Speed"
+msgid "Show Advanced Audio Settings (Reopen menu)"
 msgstr ""
 
 msgctxt "#30027"
+msgid "Show Crosshair"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Turbo Pulse Speed"
+msgstr ""
+
+msgctxt "#30029"
 msgid "Zapper device"
 msgstr ""
