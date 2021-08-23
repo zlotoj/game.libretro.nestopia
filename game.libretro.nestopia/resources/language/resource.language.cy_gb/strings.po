@@ -16,6 +16,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - NES / Famicom (Nestopia UE) 1.51.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Nestopia is a portable open source NES/Famicom emulator. It is designed to be as accurate as possible and supports a large number of peripherals. The hardware is emulated at cycle-by-cycle granularity, ensuring full support for software that does mid-scanline and other timing trickery.
+
+Icon credit: Anarkhya (anarkhya.deviantart.com)
+
+Supported files: .nes, .fds, .unf, .unif"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
