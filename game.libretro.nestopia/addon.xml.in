@@ -16,10 +16,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Icon credit: Anarkhya (anarkhya.deviantart.com)
-
-Supported files: .nes, .fds, .unf, .unif</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.nestopia</source>
@@ -29,11 +25,8 @@ Supported files: .nes, .fds, .unf, .unif</description>
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
-
-Icon credit: Anarkhya (anarkhya.deviantart.com)
-
-Supported files: .nes, .fds, .unf, .unif</description>
 		<summary lang="en_GB">Nintendo - NES / Famicom (Nestopia UE) 1.51.0</summary>
-		<description lang="en_GB">Nestopia is a portable open source NES/Famicom emulator. It is designed to be as accurate as possible and supports a large number of peripherals. The hardware is emulated at cycle-by-cycle granularity, ensuring full support for software that does mid-scanline and other timing trickery.Icon credit: Anarkhya (anarkhya.deviantart.com)Supported files: .nes, .fds, .unf, .unif</description>
+		<description lang="en_GB">Nestopia is a portable open source NES/Famicom emulator. It is designed to be as accurate as possible and supports a large number of peripherals. The hardware is emulated at cycle-by-cycle granularity, ensuring full support for software that does mid-scanline and other timing trickery.</description>
+		<disclaimer>Icon credit: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 	</extension>
 </addon>
