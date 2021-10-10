@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "Nestopia is a portable open source NES/Famicom emulator. It is designed to be as accurate as possible and supports a large number of peripherals."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Настройки"
