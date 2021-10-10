@@ -28,6 +28,7 @@
 		</assets>
 		<summary lang="en_GB">Nintendo - NES / Famicom (Nestopia UE) 1.51.1</summary>
 		<description lang="en_GB">Nestopia is a portable open source NES/Famicom emulator. It is designed to be as accurate as possible and supports a large number of peripherals.</description>
+		<disclaimer lang="da_DK">Billedkreditering: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="en_GB">Icon credit: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 	</extension>
 </addon>
