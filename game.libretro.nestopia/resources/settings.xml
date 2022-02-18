@@ -9,7 +9,7 @@
 		<setting label="30006" type="select" id="nestopia_fds_auto_insert" values="enabled|disabled" default="enabled"/>
 		<setting label="30007" type="select" id="nestopia_overscan_v" values="enabled|disabled" default="enabled"/>
 		<setting label="30008" type="select" id="nestopia_overscan_h" values="disabled|enabled" default="disabled"/>
-		<setting label="30009" type="select" id="nestopia_aspect" values="auto|ntsc|pal|4:3" default="auto"/>
+		<setting label="30009" type="select" id="nestopia_aspect" values="auto|ntsc|pal|4:3|uncorrected" default="auto"/>
 		<setting label="30010" type="select" id="nestopia_genie_distortion" values="disabled|enabled" default="disabled"/>
 		<setting label="30011" type="select" id="nestopia_favored_system" values="auto|ntsc|pal|famicom|dendy" default="auto"/>
 		<setting label="30012" type="select" id="nestopia_ram_power_state" values="0x00|0xFF|random" default="0x00"/>
